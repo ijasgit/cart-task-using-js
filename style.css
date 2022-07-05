@@ -1,0 +1,46 @@
+.product {
+    display: flex;
+    width: 600px;
+}
+
+.container {
+    display: flex;
+}
+
+.carditem {
+    display: flex;
+    width: 600px;
+    border-left: 12px solid;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+.cld1 {
+    border: 2px solid rgb(212, 255, 0);
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 150px;
+    width: 130px;
+    line-height: 30px;
+    padding: 15px;
+}
+
+.cld2 {
+    border: 2px solid rgb(212, 255, 0);
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 150px;
+    width: 130px;
+    line-height: 30px;
+    padding: 15px;
+}
+
+.cld {
+    border: 2px solid rgb(212, 255, 0);
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 150px;
+    width: 130px;
+    line-height: 30px;
+    padding: 15px;
+}
